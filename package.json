@@ -21,15 +21,15 @@
   "dependencies": {
     "bson": "^1.1.4",
     "kareem": "2.3.1",
-    "mongodb": "3.5.9",
+    "mongodb": "git+https://github.com/deversifi/node-mongodb-native.git#85d64d7c941d1b623bf396d64841d36952cb8e14",
     "mongoose-legacy-pluralize": "1.0.2",
     "mpath": "0.7.0",
     "mquery": "3.2.2",
     "ms": "2.1.2",
     "regexp-clone": "1.0.0",
     "safe-buffer": "5.2.1",
-    "sliced": "1.0.1",
-    "sift": "7.0.1"
+    "sift": "7.0.1",
+    "sliced": "1.0.1"
   },
   "devDependencies": {
     "acquit": "1.x",
